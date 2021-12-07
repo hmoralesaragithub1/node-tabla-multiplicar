@@ -1,8 +1,6 @@
 # TABLA DE MULTIPLICAR
 
-## Este es mi primer programa en nodejs el cual calcula la tabla de multiplicar
-
-## de un número enviado como base
+## Este es mi primer programa en nodejs el cual calcula la tabla de multiplicar de un número enviado como base
 
 ```
 Opciones:
